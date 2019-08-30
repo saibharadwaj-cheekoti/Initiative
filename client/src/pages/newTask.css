@@ -1,0 +1,27 @@
+.head {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  background-color: rgba(121, 213, 241, 0.753);
+  /* padding: 10px 500px; */
+}
+.head > h1 {
+  margin: 20px;
+  /* align-content: center; */
+}
+.whole {
+  background-color: rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 25px 5px;
+}
+.whole > div {
+  width: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
