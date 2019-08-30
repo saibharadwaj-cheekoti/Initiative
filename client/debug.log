@@ -1,0 +1,142 @@
+[0717/131506.523:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/131506.834:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/134458.800:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/134458.994:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/134751.462:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/134751.652:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/135355.731:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/135355.923:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/135744.334:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/135744.514:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/140137.967:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/140138.150:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0717/154707.912:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0717/154708.097:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0718/105248.187:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0718/105248.411:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0718/111324.323:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0718/111324.513:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0719/123946.788:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0719/123946.868:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0724/104526.832:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0724/104527.049:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0724/105132.790:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0724/105132.991:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0724/105430.533:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0724/105430.728:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0724/110703.788:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0724/110703.981:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0724/111034.490:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0724/111034.688:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0725/101553.024:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0725/101553.182:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0725/113454.883:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0725/113455.072:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0726/115020.266:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0726/115020.461:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0726/115827.353:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0726/115827.551:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0726/143252.405:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0726/143252.606:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0731/095006.693:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0731/095006.909:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0731/145641.693:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0731/145641.889:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0801/125955.374:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0801/125955.575:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0801/131254.483:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0801/131254.739:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0801/133252.131:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0801/133252.409:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0802/101037.239:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0802/101037.437:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0805/113044.068:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0805/113044.150:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0806/105601.634:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0806/105601.727:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/100051.814:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/100051.906:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/115006.883:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/115007.101:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/115506.077:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/115506.274:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/115820.039:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/115820.238:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/120206.815:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/120207.033:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/121439.600:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/121439.823:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/121704.955:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/121705.160:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/121839.284:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/121839.564:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/125319.353:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/125320.264:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/125642.950:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/125643.417:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/134427.363:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/134427.645:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/135447.428:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/135449.001:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/141615.574:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/141615.961:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/141950.260:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/141950.474:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0807/143550.640:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0807/143550.862:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0808/103530.233:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0808/103530.428:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0808/104955.476:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0808/104955.600:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0808/113402.894:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0808/113403.019:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0809/110416.356:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0809/110416.489:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0809/112917.392:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0809/112917.512:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0811/235742.036:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0811/235742.069:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0812/133612.497:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0812/133612.627:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/120106.004:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/120106.141:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/132357.537:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/132357.665:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/133901.201:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/133901.327:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/134510.029:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/134510.171:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/135019.857:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/135019.937:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/135438.356:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/135438.489:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0813/135724.309:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0813/135724.436:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0814/125308.941:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0814/125309.004:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0814/135040.053:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0814/135040.082:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0815/160343.924:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0815/160344.055:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0816/111945.132:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0816/111945.254:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0816/121452.970:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0816/121453.094:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0820/102535.080:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0820/102535.142:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0820/102858.737:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0820/102858.860:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0820/105123.969:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0820/105124.110:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0820/110918.815:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0820/110918.959:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0820/111426.121:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0820/111426.209:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0822/102301.910:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0822/102302.835:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0826/124054.131:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0826/124054.551:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0827/122448.461:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0827/122448.583:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0829/124418.092:ERROR:crashpad_client_win.cc(381)] OpenProcess: Access is denied. (0x5)
+[0829/124418.463:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
