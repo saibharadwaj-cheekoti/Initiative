@@ -1,0 +1,50 @@
+.App-header {
+  display: flex;
+  padding: 20px 25px 10px 20px;
+  background-color: #e7e7e7;
+  margin-left: 0%;
+  /* width: 10px;
+  margin: 25px;
+  height: 80px; */
+}
+.card-container {
+  background-color: rgba(159, 207, 240, 0.15);
+  display: flex;
+  flex-direction: row;
+  /* overflow-x: scroll; */
+}
+.red {
+  background-color: rgba(240, 159, 159, 0.15);
+}
+.blue {
+  background-color: rgba(122, 178, 216, 0.15);
+}
+.darkRed {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(201, 80, 80, 0.15);
+  height: 50px;
+}
+.darkBlue {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  text-align: left;
+  background-color: rgba(83, 149, 194, 0.15);
+  width: 100%;
+  height: 50px;
+}
+.card {
+  width: 350px !important;
+  margin: 25px;
+  height: 225px;
+}
+.card-header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+}

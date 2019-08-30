@@ -1,0 +1,46 @@
+.App-header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+}
+.App-logb {
+  height: 100px;
+}
+
+.task-title {
+  color: rgb(44, 36, 156);
+}
+.task-container {
+  margin: 10px;
+}
+.task-item:nth-child(1) {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+.task-item {
+  background-color: rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 25px 5px;
+}
+.task-item-title {
+  width: 50%;
+}
+.task-item-text {
+  margin: 0px;
+  flex-grow: 1;
+  font-weight: bold;
+  font-size: 14;
+}
+.task-item-div {
+  justify-content: flex-start;
+  padding: 25px 5px;
+}
+.task-item-date {
+  margin: 0px;
+  font-size: 14;
+  align-items: center;
+}
